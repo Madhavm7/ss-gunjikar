@@ -1,0 +1,8 @@
+{
+  "name": "ss gunjikar",
+  "description": "Professional live options chain matrix and Open Interest (OI) analysis terminal with real-time Greeks, PCR, Max Pain, and strike buildup analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
